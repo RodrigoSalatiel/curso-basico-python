@@ -1,0 +1,7 @@
+valor = input('Digite qualquer coisa: ')
+print('Tipo: {}'.format(type(valor)))
+print('É numérico? {}'.format(valor.isnumeric()))
+print('É uma letra do alfabeto? {}'.format(valor.isalpha()))
+print('Contém somente letras e números? {}'.format(valor.isalnum()))
+print('Contém somente letras minúsculas? {}'.format(valor.islower()))
+print('Contém somente letras maiúsculas? {}'.format(valor.isupper()))

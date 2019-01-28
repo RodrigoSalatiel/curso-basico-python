@@ -1,0 +1,5 @@
+frase = input('Digite uma frase: ')
+qtdLetraA = frase.lower().count('a')
+posLetraA = frase.lower().find('a')
+ultimaLetraA = frase.lower().rfind('a')
+print('A frase possui {} letras "a" \nEla aparece na posição {} pela 1ª vez e na posição {} pela última vez'.format(qtdLetraA,posLetraA,ultimaLetraA))
