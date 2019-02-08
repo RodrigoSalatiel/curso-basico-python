@@ -16,7 +16,7 @@ while True:
         resp = str(input('Deseja continuar[S/N]? ')).upper()[0]
         if resp in 'SN':
             break
-        print('Opção inválida! Digite "S" ou "Npara continuar')
+        print('Opção inválida! Digite "S" ou "N para continuar')
     if resp == 'N':
         break
 print('-' * 40)
