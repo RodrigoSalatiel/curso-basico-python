@@ -5,17 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca081383-c847-4503-8c04-a23285fb4360" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Aulas/Funções/Aula20.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/Funções/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Aulas/Funções/aula20b.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex096.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex097.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex098.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex099.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex100.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Funções/Aula21a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Funções/Aula21b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Funções/Aula21c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Funções/Aula21d.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Funções/Aula21e.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/Funções/Aula21pratica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Aulas/ambiente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex101.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex102.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex103.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex104.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex105.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex095.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex095.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercicios/Funções/Ex100.py" beforeDir="false" afterPath="$PROJECT_DIR$/Exercicios/Funções/Ex100.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,22 +29,46 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula20.py">
+        <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21e.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="211">
+              <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21pratica.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex100.py">
+        <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex105.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="499">
+              <caret line="44" column="12" selection-end-line="44" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aulas/Estruturas compostas/Aula19.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula20.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -70,18 +97,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercicios/Ex066.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Ex067.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Ex068.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Ex069.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Ex070.py" />
-        <option value="$PROJECT_DIR$/Exercicios/calc.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Ex071.py" />
-        <option value="$PROJECT_DIR$/Aulas/Estruturas compostas/Aula16.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex072.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex073.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex074.py" />
-        <option value="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex075.py" />
         <option value="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex076.py" />
         <option value="$PROJECT_DIR$/Exercicios/Estruturas Compostas/eX077.py" />
         <option value="$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex077.py" />
@@ -121,6 +136,18 @@
         <option value="$PROJECT_DIR$/Exercicios/Funções/Ex098.py" />
         <option value="$PROJECT_DIR$/Exercicios/Funções/Ex099.py" />
         <option value="$PROJECT_DIR$/Exercicios/Funções/Ex100.py" />
+        <option value="$PROJECT_DIR$/Aulas/ambiente.py" />
+        <option value="$PROJECT_DIR$/Aulas/Funções/Aula21a.py" />
+        <option value="$PROJECT_DIR$/Aulas/Funções/Aula21b.py" />
+        <option value="$PROJECT_DIR$/Aulas/Funções/Aula21c.py" />
+        <option value="$PROJECT_DIR$/Aulas/Funções/Aula21d.py" />
+        <option value="$PROJECT_DIR$/Aulas/Funções/Aula21e.py" />
+        <option value="$PROJECT_DIR$/Aulas/Funções/Aula21pratica.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Funções/Ex101.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Funções/Ex102.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Funções/Ex103.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Funções/Ex104.py" />
+        <option value="$PROJECT_DIR$/Exercicios/Funções/Ex105.py" />
       </list>
     </option>
   </component>
@@ -149,6 +176,23 @@
             <path>
               <item name="PythonExercicios" type="b2602c69:ProjectViewProjectNode" />
               <item name="PythonExercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="Aulas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExercicios" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="Aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="Estruturas compostas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExercicios" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExercicios" type="462c0819:PsiDirectoryNode" />
+              <item name="Aulas" type="462c0819:PsiDirectoryNode" />
+              <item name="Funções" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExercicios" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PythonExercicios" type="462c0819:PsiDirectoryNode" />
               <item name="Exercicios" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -156,6 +200,15 @@
               <item name="PythonExercicios" type="462c0819:PsiDirectoryNode" />
               <item name="Exercicios" type="462c0819:PsiDirectoryNode" />
               <item name="Funções" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PythonExercicios" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="PythonExercicios" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.7 (PythonExercicios) &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
           </expand>
           <select />
@@ -195,71 +248,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Ex100">
-    <configuration name="Ex096" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/Estruturas Compostas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Desenvolvimento\Workspace PHYTON\PythonExercicios\Exercicios\Funções\Ex096.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex097" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/Estruturas Compostas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Desenvolvimento\Workspace PHYTON\PythonExercicios\Exercicios\Funções\Ex097.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex098" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonExercicios" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/Estruturas Compostas" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Desenvolvimento\Workspace PHYTON\PythonExercicios\Exercicios\Funções\Ex098.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Ex099" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Ex105">
+    <configuration name="Ex101" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,7 +261,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Funções/Ex099.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Funções/Ex101.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -280,7 +270,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Ex100" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Ex102" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonExercicios" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -292,7 +282,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Funções/Ex100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Funções/Ex102.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex103" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/Funções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Funções/Ex103.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex104" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/Funções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Funções/Ex104.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ex105" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonExercicios" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exercicios/Funções" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercicios/Funções/Ex105.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -303,11 +356,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Ex100" />
-        <item itemvalue="Python.Ex099" />
-        <item itemvalue="Python.Ex098" />
-        <item itemvalue="Python.Ex097" />
-        <item itemvalue="Python.Ex096" />
+        <item itemvalue="Python.Ex105" />
+        <item itemvalue="Python.Ex104" />
+        <item itemvalue="Python.Ex103" />
+        <item itemvalue="Python.Ex102" />
+        <item itemvalue="Python.Ex101" />
       </list>
     </recent_temporary>
   </component>
@@ -332,8 +385,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3764321" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.049099836" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -341,7 +394,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3289689" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -367,90 +420,6 @@
     </layout-to-restore>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas de Controle/Ex066.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas de Controle/Ex069.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="23" selection-start-line="16" selection-start-column="23" selection-end-line="16" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/calc.py" />
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas de Controle/Ex065.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" column="44" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Fundamentos/Ex004.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Fundamentos/Ex002.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Fundamentos/Ex001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aulas/Estruturas compostas/Aula16.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-233">
-          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aulas/Fundamentos/Aula09Análise.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="90" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aulas/Estruturas compostas/Aula17b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex075.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="57" selection-start-line="12" selection-start-column="57" selection-end-line="12" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex074.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex073.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="35" lean-forward="true" selection-start-line="13" selection-start-column="35" selection-end-line="13" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex072.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas de Controle/Ex071.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
@@ -640,24 +609,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aulas/Estruturas compostas/Aula19.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex094.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="680">
           <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex095.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
         </state>
       </provider>
     </entry>
@@ -675,13 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Aulas/Funções/aula20b.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex098.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -689,10 +637,115 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex100.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="22" lean-forward="true" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/ambiente.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21d.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="34" column="83" selection-start-line="34" selection-start-column="83" selection-end-line="34" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex101.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex099.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="129">
           <caret line="14" column="7" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Estruturas Compostas/Ex095.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="48" selection-start-line="18" selection-start-column="48" selection-end-line="18" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex102.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex103.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex104.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="14" lean-forward="true" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21c.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="18" lean-forward="true" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21e.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="211">
+          <caret line="22" column="79" selection-start-line="22" selection-start-column="79" selection-end-line="22" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Funções/Aula21pratica.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Estruturas compostas/Aula16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Aulas/Funções/aula20b.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -703,13 +756,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex100.py">
+    <entry file="file://$PROJECT_DIR$/Aulas/Estruturas compostas/Aula19.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="102">
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercicios/Funções/Ex105.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="44" column="12" selection-end-line="44" selection-end-column="12" />
         </state>
       </provider>
     </entry>

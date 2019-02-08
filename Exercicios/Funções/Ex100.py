@@ -4,7 +4,7 @@ from time import sleep
 def sorteia():
     print('Sorteando 5 valores da lista: [', end='')
     for num in range(0,5):
-        num = randint(1, 10)
+        num = randint(1, 999)
         numeros.append(num)
         print(f'{num}    ', end='', flush=True)
         sleep(0.5)
